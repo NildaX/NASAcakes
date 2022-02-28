@@ -1,0 +1,39 @@
+  
+  ul {
+    padding: 0;
+    width: 100%;
+  }
+  
+  li {
+    display: inline;
+  }
+  
+  a {
+    outline: none;
+    text-decoration: none;
+    display: inline-block;
+    width: 100%;
+    margin-right: 0.625%;
+    text-align: center;
+    line-height: 3;
+    color: #ff0080;
+    font-size: xx-large;
+    
+  }
+  
+  li:last-child a {
+    margin-right: 0;
+  }
+  
+  a:link, a:visited, a:focus {
+    background: rgb(255, 255, 255);
+  }
+  
+  a:hover {
+    background: rgb(215, 53, 230);
+  }
+  
+  a:active {
+    background: #b81186;
+    color: white;
+  }
