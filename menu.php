@@ -88,7 +88,7 @@
                 </table>
             </div>
         </div>
-        <a class="fcc-btn" href="/NASAcakes/menu.php">Realizar pedido</a>
+        <a class="fcc-btn" href="/NASAcakes/realizar_pedido.php">Realizar pedido</a>
     </div>
     <br>
     <br>
