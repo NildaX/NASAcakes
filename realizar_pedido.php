@@ -116,9 +116,14 @@
         <br>
         <input type="email" id="email" name="email">
         <br>
-        <a class="fcc-btn" href="/NASAcakes/realizar_pedido.php">Realizar pedido</a>
+        <input type="button" onclick="show()" value="Realizar pedido">
     </div>
     <br>
     <br>
 </body>
 </html>
+<script>
+    function show() {
+  alert("Se ha realizado tu pedido");
+}
+</script>
